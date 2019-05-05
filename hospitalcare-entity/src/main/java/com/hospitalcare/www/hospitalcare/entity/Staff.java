@@ -8,6 +8,8 @@ public class Staff {
 	private Address address;
 	private String phoneNumber;
 	private String staffMailId;
+	
+	
 	public String getName() {
 		return name;
 	}
